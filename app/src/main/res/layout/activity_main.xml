@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible">
+
+    <ImageView
+        android:id="@+id/ArtGuideImage"
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:paddingLeft="30dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:scaleType="centerInside"
+        android:src="@drawable/art_guide_header"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textVisit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Discover Local"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginTop="20dp"
+        android:textColor="#212121"
+        android:textSize="35sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toBottomOf="@id/ArtGuideImage"/>
+
+    <TextView
+        android:id="@+id/textGallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="20dp"
+        android:text="GALLERIES"
+        android:textColor="#757575"
+        android:textSize="35sp"
+        app:layout_constraintTop_toBottomOf="@id/textVisit"
+        />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/galleriesViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginBottom="30dp"
+        android:paddingStart="60dp"
+        android:paddingEnd="60dp"
+        app:layout_constraintTop_toBottomOf="@id/textGallery"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

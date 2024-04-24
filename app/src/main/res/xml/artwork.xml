@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <artworks>
+        <artwork>
+            <name>Horse</name>
+            <artist>Basil Blackshaw</artist>
+            <year>1998</year>
+            <size>152cm x 274cm</size>
+            <materials>Oil on canvas</materials>
+            <image>horse.jpg</image>
+            <description>horseaudio.mp3</description>
+        </artwork>
+
+        <artwork>
+            <name>Telemachus</name>
+            <artist>Katherine Boucher Beug</artist>
+            <year>2002</year>
+            <size>114cm x 152cm</size>
+            <materials>Acrylic and pigment on canvas</materials>
+            <image>telemachus.jpg</image>
+            <description>telemachusaudio.mp3</description>
+        </artwork>
+
+        <artwork>
+            <name>Monocopsis Drawings</name>
+            <artist>Aideen Barry</artist>
+            <year>2020</year>
+            <size>30cm x 22.49cm</size>
+            <materials>Digital prints on archival Hahnmuhle paper</materials>
+            <image>monocopsis.jpg</image>
+            <description>monocopsisaudio.mp3</description>
+        </artwork>
+
+        <artwork>
+            <name>Multi Channel</name>
+            <artist>Katherine Boucher Beug</artist>
+            <year>1989</year>
+            <size>41cm x 28cm</size>
+            <materials>Mixed media on collaged paper</materials>
+            <image>multichannel.jpg</image>
+            <description>multichannelaudio.mp3</description>
+        </artwork>
+
+        <artwork>
+            <name>The Close of Day</name>
+            <artist>Colin Crotty</artist>
+            <year>2019</year>
+            <size>67cm x 54cm</size>
+            <materials>Painting with oil on linen</materials>
+            <image>thecloseofday.jpg</image>
+            <description>thecloseofdayaudio.mp3</description>
+        </artwork>
+    </artworks>
+</dataroot>

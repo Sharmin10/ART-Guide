@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot>
+    <galleries>
+        <gallery>
+            <name>Glucksman Gallery</name>
+            <image>glucksman.jpg</image>
+            <map>glucksmanmap.png</map>
+            <address>University College Cork,
+University College,
+Cork,
+T12 N1FK</address>
+            <open>
+CLOSED MONDAY
+11:00 - 17:00 TUESDAY
+11:00 - 17:00 WEDNESDAY
+11:00 - 17:00 THURSDAY
+11:00 - 17:00 FRIDAY
+11:00 - 17:00 SATURDAY
+11:00 - 17:00 SUNDAY
+            </open>
+            <description>Visit an award winning building within the historic grounds of University College Cork. The Glucksman Gallery in Cork City is a cultural and educational institution that promotes the research, creation and exploration of the visual arts. It is a hive of cultural activity that includes exhibitions, talks, creative workshops, art courses and gallery shop.
+            </description>
+        </gallery>
+        <description>
+        </description>
+
+        <gallery>
+            <name>Crawford Art Gallery</name>
+            <image>crawford.jpg</image>
+            <map>crawfordmap.png</map>
+            <address>1 Emmett Pl,
+Centre,
+Cork,
+T12 YHN7</address>
+            <open>
+10:00 - 17:00 MONDAY
+10:00 - 17:00 TUESDAY
+10:00 - 17:00 WEDNESDAY
+10:00 - 20:00 THURSDAY
+10:00 - 17:00 FRIDAY
+10:00 - 17:00 SATURDAY
+11:00 - 16:00 SUNDAY
+            </open>
+            <description>Crawford Art Gallery, a National Cultural Institution and the regional art museum for Munster, is dedicated to the visual arts, both historic and contemporary. Located in the heart of Cork City, beside the Opera House, the Gallery is a critical part of Ireland's cultural and tourism infrastructure, welcoming over 200,000 visitors a year. The Gallery’s permanent collection ranges from 18th century Irish and European paintings and sculptures, through to modern as well as contemporary video installations.
+            </description>
+        </gallery>
+
+        <gallery>
+            <name>Lavit Gallery</name>
+            <image>lavit.jpg</image>
+            <map>lavitmap.png</map>
+            <address>Wandesford Quay,
+Clarke's Bridge,
+Cork,
+T12 E26D</address>
+            <open>
+CLOSED MONDAY
+10:30 - 18:00 TUESDAY
+10:30 - 18:00 WEDNESDAY
+10:30 - 18:00 THURSDAY
+10:30 - 18:00 FRIDAY
+10:30 - 18:00 SATURDAY
+CLOSED SUNDAY
+            </open>
+            <description>Cork Arts Society was established in 1963 and is now known as Lavit Gallery. This is a not for profit arts organisation and registered charity, dedicated to promoting an appreciation of art in Cork City through the provision of a gallery space, in which artists can exhibit their artwork for public patronage. Lavit Gallery also serves the art community and the public in Cork City through its non commercial activities including artist talks, exhibition tours and the provision of two graduate awards given annually to students at MTU Crawford College of Art and Design.
+            </description>
+        </gallery>
+
+        <gallery>
+            <name>Laneway Gallery</name>
+            <image>laneway.jpg</image>
+            <map>lanewaymap.png</map>
+            <address>120A Shandon St,
+Gurranabraher,
+Cork,
+T23 NA46</address>
+            <open>
+CLOSED MONDAY
+11:00 - 16:00 TUESDAY
+CLOSED WEDNESDAY
+11:00 - 16:00 THURSDAY
+11:00 - 16:00 FRIDAY
+11:00 - 18:00 SATURDAY
+CLOSED SUNDAY
+            </open>
+            <description>The Laneway Gallery is a contemporary art gallery located down a laneway in the heart of the historic Shandon district, Cork City. The gallery showcases the work of established and emerging Irish artists with an emphasis on those based in Cork. An independent artist led gallery, Laneway Gallery aims to showcase the contemporary art that is being created in Cork and other parts of Ireland.
+            </description>
+        </gallery>
+    </galleries>
+</dataroot>

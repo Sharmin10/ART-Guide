@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ART-Guide</string>
+    <string name="camera">camera</string>
+    <string name="favourite">favourite</string>
+</resources>
